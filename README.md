@@ -28,7 +28,7 @@ This platform enables artists and collectors to:
 - **Version Control**: Git & GitHub
 
 ## 📁 Project Structure
-
+<pre>
 NFT-MARKETPLACE/
 ├── files.py
 ├── novamint-enhanced-5/
@@ -38,6 +38,9 @@ NFT-MARKETPLACE/
 │ ├── mint.html
 │ └── upload.html
 └── README.md
+</pre>
+## 📁 Project Structure
+
 
 ## 💻 How to Run Locally
 
