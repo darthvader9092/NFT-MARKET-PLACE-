@@ -29,3 +29,19 @@ This platform enables artists and collectors to:
 
 ## 📁 Project Structure
 
+NFT-MARKETPLACE/
+├── files.py
+├── novamint-enhanced-5/
+│ └── frontend/
+│ ├── index.html
+│ ├── dashboard.html
+│ ├── mint.html
+│ └── upload.html
+└── README.md
+
+## 💻 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/darthvader9092/NFT-MARKETPLACE.git
+   cd NFT-MARKETPLACE
